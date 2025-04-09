@@ -21,8 +21,3 @@ To run this app, you’ll need:
 - Python 3, VS Code, and the Python extension
 - Your BoldBI **Embed Secret** and **Admin credentials**
 
----
-
-## Credits
-
-This project is adapted from [BoldBI's official sample](https://github.com/boldbi/react-with-python) to explore BI embedding and full-stack integration.
